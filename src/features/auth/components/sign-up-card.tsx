@@ -8,6 +8,8 @@ import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
 import { SignInFlow } from "../type";
 
+/* Test Script */
+
 interface SignUpCardProps {
     setState: (state: SignInFlow) => void;
 };
